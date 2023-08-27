@@ -1,15 +1,15 @@
-# (i)bin - Smart Waste Management System :recycle:
+# :recycle: (i)bin - Smart Waste Management System
 
-## Disclaimer :page_facing_up:
+## :page_facing_up: Disclaimer
 This project was developed as part of the 2nd Panhellenic Open Technologies Competition in Education for the school year 2019-2020. The project addresses the issue of waste management and aims to provide a solution to the challenges posed by waste accumulation in urban areas.
 
-## Disclaimer in Greek :page_facing_up:
+## :page_facing_up: Disclaimer in Greek
 Το παρόν έργο αναπτύχθηκε στο πλαίσιο του 2ου Πανελλήνιου Διαγωνισμού Ανοιχτών Τεχνολογιών στην Εκπαίδευση για το σχολικό έτος 2019-2020. Το έργο αντιμετωπίζει το πρόβλημα της διαχείρισης των απορριμμάτων και έχει ως στόχο την παροχή λύσης στις προκλήσεις που προκύπτουν από τη συσσώρευση απορριμμάτων σε αστικές περιοχές.
 
-## Project Overview :chart_with_upwards_trend:
+## :chart_with_upwards_trend: Project Overview
 The (i)bin project addresses the growing issue of waste accumulation outside bins, exacerbated during the summer due to high temperatures. This situation has negative effects, including the release of CO2 and CH4 gases harmful to health and the environment. The project proposes the replacement of existing waste bins with modern models equipped with advanced technology to provide efficient waste management.
 
-## Repository Structure :file_folder:
+## :file_folder: Repository Structure
 The repository is organized into the following sections:
 - `Code`: Contains the source code for the (i)bin system, including Arduino code for sensors, LED indicators, and motor control.
 - `TestCode`: Includes test scripts and code used during development and testing.
@@ -17,7 +17,7 @@ The repository is organized into the following sections:
 - `EducationResources`: Offers educational resources such as documentation and tutorials for understanding and replicating the project.
 - `Photos`: Contains images and photos showcasing the development process, the prototype, and the final system.
 
-## Equipment :wrench:
+## :wrench: Equipment
 
 The (i)bin project utilizes the following equipment:
 
@@ -34,10 +34,10 @@ The (i)bin project utilizes the following equipment:
 - Voltage converters DC-DC Step-Down & Step-Up Converter
 - Superbright LEDs of various colors
 
-## Recognition/Accolades :star:
+## :star: Recognition/Accolades
 Recognized by the Organizing Committee of the Panhellenic Open Technologies Competition (https://openedtech.ellak.gr/) in the 2nd Panhellenic Open Technologies Competition, held during the school year 2019-2020. Our team secured the first position out of 243 teams in its category!
 
-## Team Members :busts_in_silhouette:
+## :busts_in_silhouette: Team Members
 
 Meet the dedicated team members behind the (i)bin project:
 
@@ -51,6 +51,6 @@ Meet the dedicated team members behind the (i)bin project:
 - **Despoina Pavlidou**
 - **Kostas Chatzarithis**
 
-## License :scroll:
+## :scroll: License
 This project is licensed under the GPL-3.0 License.
 
