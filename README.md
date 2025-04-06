@@ -42,7 +42,7 @@ Recognized by the Organizing Committee of the Panhellenic Open Technologies Comp
 Meet the dedicated team members behind the (i)bin project:
 
 - **Fotis Vourliotis**
-- **Antonis Giannkovitis**
+- **Antonis Giannakovitis**
 - **Maria Giangoula**
 - **Paschalis Doupiakiotis**
 - **Pavlos Kontogloudou**
